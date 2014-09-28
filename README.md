@@ -1,4 +1,4 @@
-=== Current Articles ===
+# Current Articles
 
 ## Hayek
 

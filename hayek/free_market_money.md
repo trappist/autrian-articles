@@ -1,4 +1,4 @@
-=== Toward Free Market Money ===
+# Toward Free Market Money
 
 By FRIEDRICH HAYEK 
 
