@@ -1,12 +1,14 @@
 # Toward Free Market Money
 
-By FRIEDRICH HAYEK 
+By FRIEDRICH A. HAYEK 
 
-I have always defended e gold standard. and later fixed exchange rates, not because I thought they resulted in particularly good money but because they provided the only effective protection from government abuse of its monopoly to issue money. 
+I have always defended the gold standard, and later fixed exchange rates, not because I thought they resulted in particularly good money but because they provided the only effective protection from government abuse of its monopoly to issue money. 
 
 But now, when this discipline has broken down, I see no hope of its being ever restored. 
 
-Therefore, unless we fundamentally change things. our prospect seems to be for indefinite accelerating inflation worsened by price controls, followed by a rapid breakdown of the market, of democratic institutions and ultimately of civilization as we know it. But. as Shakespeare taught us: "diseases desperate grown, by desperate appliance are relieved, or not at all."
+Therefore, unless we fundamentally change things, our prospect seems to be for indefinite accelerating inflation worsened by price controls, followed by a rapid breakdown of the market, of democratic institutions and ultimately of civilization as we know it.
+
+But, as Shakespeare taught us: "diseases desperate grown, by desperate appliance are relieved, or not at all."
 
 Two years ago I suggested a radical cure — i.e.. taking from government the monopoly of issuing money, and handing the task to private industry — partly as a bitter joke.
 
@@ -28,7 +30,7 @@ As Carl Menger pointed out 85 years ago, economists inexplicably allowed themsel
 
 Of course in China the state soon again interfered and spoiled it all.
 
-The second objection is. what about Gresham's Law? Would not the bad money inevitably drive out the good? 
+The second objection is, what about Gresham's Law? Would not the bad money inevitably drive out the good? 
 
 But Gresham's Law does not apply to competition between money of different denominations, the rate of exchange between which is currently determined by the market. It is only when people have the choice of paying in either good or bad money that they will inevitably choose the bad one and keep the good one for other purposes.
 
@@ -36,7 +38,7 @@ But if the rates of exchange between different media of exchange are variable, p
 
 If I were in charge of one of the big joint stock banks in Zurich, and assuming there were no legal prohibitions, I would announce that I would issue certificates and open checking accounts in terms of some new monetary unit. I would claim exclusive rights for it, holding myself responsible to redeem on demand, at the option of the holder, for a specified number of U.S. dollars, Swiss francs or D-Marks.
 
-I would further announce my intention. although without assuming a legal obligation, to control the quantity of this issue so as to keep its purchasing power as nearly constant as possible (measured against a specified list of commodities).
+I would further announce my intention, although without assuming a legal obligation, to control the quantity of this issue so as to keep its purchasing power as nearly constant as possible (measured against a specified list of commodities).
 
 I would add to this announcement that I fully understood that the success of my business, which should be very profitable since I would lend money, depended on my meeting the public's expectation that I maintain my currency at the announced real value. I am convinced that I could satisfy this expectation.
 
@@ -44,7 +46,7 @@ All executive officers of the issuing bank would be guided in their decisions ab
 
 The guide number would be, in effect, an appropriately weighted average of the monetary prices — probably of raw materials and internationally traded foodstuffs, taken in the first instance in terms of the currencies in which they were traded, and converted at the current rate of exchange.
 
-In other words, it would be an index number continuously computed on the basis of the latest arrived price and exchange quotation. If the basis of this index number were, say, 1,000, a rise to 1,003 would instantly inform all officers of the bank that they would curtail their lending and purchases slightly. Similarly, a fall to. say, 998 would tell them that they could relax slightly.
+In other words, it would be an index number continuously computed on the basis of the latest arrived price and exchange quotation. If the basis of this index number were, say, 1,000, a rise to 1,003 would instantly inform all officers of the bank that they would curtail their lending and purchases slightly. Similarly, a fall to, say, 998 would tell them that they could relax slightly.
 
 The same information would of course be used by the market and the media, with the result that any deviation from the announced standard would rapidly be brought to public notice.
 
@@ -54,7 +56,7 @@ Since the assets of any such bank would consist chiefly of short term loans in t
 
 Successful pursuit of such a policy would mean that if the national currency into which the private one was legally convertible continued to be inflated, the private currency would come to float higher and higher. From the beginning it would have been valued more highly than any of the currencies in which it was redeemable at the option of the holder, simply because thanks to that option it was less risky.
 
-But as official currencies continue to de-preciate. the difference would steadily grow, and with it public awareness of the advantages of stable currency. 
+But as official currencies continue to depreciate, the difference would steadily grow, and with it public awareness of the advantages of stable currency. 
 
 The apparent profitability of this business would obviously attract competitors. 
 
@@ -72,6 +74,6 @@ Removing government's monopoly on issuing legal tender would not only provide us
 
 The absurdity of this system with its "inherent instability" and "perverse elasticity" of credit has long been understood, but men like Walter Bagehot and Ludwig von Mises felt that it must be tolerated for the time being because people had become adapted to it.
 
-We now have no choice but to change our money and currency system. sooner or later. And one of the prime needs, if we are to eliminate the great fluctuations of credit, is to do away with the distinction between the cash issued by government and the monetary credit which banks create.
+We now have no choice but to change our money and currency system, sooner or later. And one of the prime needs, if we are to eliminate the great fluctuations of credit, is to do away with the distinction between the cash issued by government and the monetary credit which banks create.
 
 I believe we shall yet understand that the one thing the government of a free country must not be allowed to possess exclusively is a printing press for money. The sooner we learn that the better for all of us and our free institutions.
